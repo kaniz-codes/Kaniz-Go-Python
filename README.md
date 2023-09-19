@@ -25,7 +25,7 @@
 
 4️⃣ 𝐂𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐭𝐡𝐞 𝐍𝐚𝐯𝐢𝐠𝐚𝐭𝐢𝐨𝐧 𝐓𝐨𝐨𝐥𝐛𝐚𝐫:
 
-![codeimage-snippet_19 (4)](https://github.com/kaniz-codes/Kaniz-Go-Python/assets/138873297/681433dc-f609-4448-bb4a-eb46dff11530)
+![codeimage-snippet_19 (3)](https://github.com/kaniz-codes/Kaniz-Go-Python/assets/138873297/363f0e95-fcf1-4cd3-a11b-8b13459f6a96)
 
 - This code creates a toolbar (𝐧𝐚𝐯𝐛𝐚𝐫) and adds it to the main window.
 
