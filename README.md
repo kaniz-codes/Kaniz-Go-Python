@@ -57,5 +57,8 @@ The 𝐐𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 class is initialized with �
 An instance of the 𝐌𝐚𝐢𝐧𝐖𝐢𝐧𝐝𝐨𝐰 class is created.
 Finally, the application enters the event loop with app.exec(), allowing the GUI to run.
 
+🐍 𝐅𝐢𝐧𝐚𝐥 𝐂𝐨𝐝𝐞:
+
+![codeimage-snippet_19 (9)](https://github.com/kaniz-codes/Kaniz-Go-Python/assets/138873297/94b8a193-e9e2-4568-ae12-1f2d60af50ba)
 
 
